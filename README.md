@@ -51,7 +51,7 @@ app/src/main/
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/<your-username>/CourseCalendar.git
+   git clone https://github.com/Yifei-929-hub/CourseCalendar.git
    ```
 2. 用 Android Studio 打开项目根目录，等待 Gradle 同步完成（会自动生成 `local.properties` 并下载依赖）
 3. 连接真机或启动模拟器（Android 7.0 / API 24 及以上），点击 **Run ▶**
